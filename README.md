@@ -163,18 +163,6 @@ Run all cells sequentially to:
 
 ---
 
-## Future Improvements
-
-- Implement additional machine learning models such as:
-  - Random Forest
-  - XGBoost
-  - Support Vector Machine (SVM)
-- Perform hyperparameter tuning.
-- Build a web application using Flask or Streamlit.
-- Deploy the model for real-time loan approval prediction.
-
----
-
 ## Author
 
 **Antra Singh**
